@@ -1,0 +1,17 @@
+{
+  "name": "school-shootings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "John West",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^1.6.11",
+    "d3": "^5.4.0",
+    "d3-geo": "^1.10.0",
+    "gifencoder": "^1.1.0",
+    "topojson": "^3.0.2",
+    "topojson-client": "^3.0.0",
+    "us-atlas": "^1.0.2"
+  }
+}
